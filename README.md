@@ -21,7 +21,7 @@ shortcut = shortcut_session.get_api()
 
 ## Example
 
-Create a new Story in the first Project that is returned from the API in the all projects list.
+Create a new Story in a specific Epic that is returned from the API in the all epics list.
 
 
 ```python
